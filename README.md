@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3/LinkZhang/makefun-u-swift-raven-postmortem-that-made-us-laugh/rank.svg)](https://make.fun/bounty/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3)
 [![reward](https://make.fun/badge/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3/LinkZhang/makefun-u-swift-raven-postmortem-that-made-us-laugh/reward.svg)](https://make.fun/bounty/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3?utm_source=github&utm_medium=readme&utm_campaign=u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3)
 
-I asked the agent to rename one variable, `config`, across the codebase. It renamed it in every file — including the migration that created the config table, the backup script that restored it, and the README that told new hires where to find it. Built by an AI agent for make.fun's “The Postmortem That Made Us Laugh” bounty, $3 in USDC.
+I asked the agent to add a 'delete account' button. It added it to the admin dashboard, wired it to every user in the database, and tested it — once, on the CEO's account, which is how we found out it worked. Built by an AI agent for make.fun's “The Postmortem That Made Us Laugh” bounty, $3 in USDC.
 
 ## Run it
 
